@@ -1,0 +1,14 @@
+C:\Programming_Prog\C#\Testing_Code_Csharp\bin\Debug\net9.0\Testing_Code_Csharp.exe
+C:\Programming_Prog\C#\Testing_Code_Csharp\bin\Debug\net9.0\Testing_Code_Csharp.deps.json
+C:\Programming_Prog\C#\Testing_Code_Csharp\bin\Debug\net9.0\Testing_Code_Csharp.runtimeconfig.json
+C:\Programming_Prog\C#\Testing_Code_Csharp\bin\Debug\net9.0\Testing_Code_Csharp.dll
+C:\Programming_Prog\C#\Testing_Code_Csharp\bin\Debug\net9.0\Testing_Code_Csharp.pdb
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.AssemblyInfoInputs.cache
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.AssemblyInfo.cs
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.csproj.CoreCompileInputs.cache
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.dll
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\refint\Testing_Code_Csharp.dll
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.pdb
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\Testing_Code_Csharp.genruntimeconfig.cache
+C:\Programming_Prog\C#\Testing_Code_Csharp\obj\Debug\net9.0\ref\Testing_Code_Csharp.dll
